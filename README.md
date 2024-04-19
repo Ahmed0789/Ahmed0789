@@ -1,13 +1,11 @@
 # Welcome to my profile! 👋
 
-## About Me
+### About Me
 
 I'm a passionate engineer with expertise in a wide range of fields, from hardware to software/systems development. I specialize in frontend/backend web technologies, microservices (FAAS), cybersecurity/CSP (CIS, knowledge of CCM), cloud computing, solution architecture, and DevOps practices. With extensive experience in building hybrid solutions on private cloud & Azure, solution design, and CI/CD setup, I thrive on solving complex problems and building robust, scalable applications.
 
 ## Technologies I Love 🌱🔭
 
-- **Cloud:** Azure (Hybrid Solutions)
-- **DevOps:** GitLab CI/CD, Docker, Kubernetes
 - **Web Tech Frameworks:** 
     - ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
     - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
@@ -33,10 +31,11 @@ I'm a passionate engineer with expertise in a wide range of fields, from hardwar
     - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
     - ![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&logoColor=white)
     - ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
+- **Cloud:** Azure (Hybrid Solutions), Administration, Azure DevOps, Azure Developing Solutions, Google Cloud, Private clouds
 - **Cybersecurity:** CIS, CCM, CSP, Working towards CISSP
-- **CI/CD and Automated Testing:** GIT, GITLAB, JIRA, SonarQube, Docker, Kubernetes, Jenkins, Azure, AKS, R / Python automation scripts
-- **Networking:** fibre engineer/architect, patch panels, Cisco cloud administration, PRTG, NetCat, Reverse Shell, Spoof/hijack prevention, Infrastructure, DNS configurations, Switches, VLAN SIP SSIDS Groupings etc
-- **Hardware:** Chipset collections, Motherboards, Cisco servers, Switches, DNS, Firewall, VPN devices, Power supply units, Cisco phones, Fibre patch panels
+- **DevOps CI/CD and Automated Testing:** GIT, GITLAB, JIRA, SonarQube, Docker, Kubernetes, Jenkins, Azure, AKS, R / Python automation scripts
+- **Networking:** fibre engineer/architect, patch panels, Cisco cloud administration, PRTG, NetCat, Reverse Shell, Spoof/hijack prevention, Infrastructure, DNS configurations, Switches, VLAN SIP SSIDS Groupings etc ...
+- **Hardware:** Chipset collections, Motherboards, Peripherals, Cisco servers, Switches, DNS, Firewall, VPN devices, Power supply units, Cisco phones, Fibre patch panels ...
 
 ## Certificates & Licenses
 
