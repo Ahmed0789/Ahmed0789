@@ -1,6 +1,4 @@
-# Ahmed0789's GitHub Profile
-
-### Welcome to my profile! 👋
+# Welcome to my profile! 👋
 
 ## About Me
 
