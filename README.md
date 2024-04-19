@@ -2,40 +2,57 @@
 
 ## About Me
 
-I'm a passionate engineer as a all-rounder from hardware to software/systems development with expertise in many fields from frontend / backend web technologies, microservices (FAAS), cybersecurity/CSP (CIS, knowledge of CCM), cloud computing, solution architecture, and DevOps practices to a great extend as my I have great experience in building Network Infrastructure from scratch which hosts not only capabilities for 30,000 people connectivity but it also provide network access for heavy duty for a telecommuncation Channel. With extensive experience in building hybrid solutions on private cloud & Azure, solution design, and CI/CD setup, I thrive on solving complex problems and building robust, scalable applications.
+I'm a passionate engineer with expertise in a wide range of fields, from hardware to software/systems development. I specialize in frontend/backend web technologies, microservices (FAAS), cybersecurity/CSP (CIS, knowledge of CCM), cloud computing, solution architecture, and DevOps practices. With extensive experience in building hybrid solutions on private cloud & Azure, solution design, and CI/CD setup, I thrive on solving complex problems and building robust, scalable applications.
 
 ## Technologies I Love 🌱🔭
 
 - **Cloud:** Azure (Hybrid Solutions)
 - **DevOps:** GitLab CI/CD, Docker, Kubernetes
-- **Web Tech Frameworks:** Angular, Django, React, Laravel, Node.js, Express.js, .NET, ASP.NET CORE (up to 9 years)
-- **Testing:** MOQ, Mocha, Unit/Automated, Cypress – E2E, Karma, Jasmine-suite, SPING (3 years)
-- **Databases:** MySQL, SQL, NoSQL/Mongo, PostgreSQL (1-5 years)
-- **Project Management:** Agile, Teams, Scrum, CI/CD (4 years)
-- **Operating Systems:** Windows, Linux, Ubuntu, MacOS, Android, Windows phone (8 years)
-- **Cloud:** Azure (Hybrid Solutions), Administration, Azure DevOps, Azure Developing Solutions, Google Cloud (2 years), Private clouds (5 years)
-- **Languages:** Assembly, C#, C++, CSS, HTML, Java, JavaScript, NativeScript, TypeScript, Python, Powershell, R script, Ruby (7 years)
-- **Cybersecurity:** CIS, CCM, CSP, Working towards CISSP (2 year)
-- **CI/CD and Automated Testing:** GIT, GITLAB, JIRA, SonarQube, Docker, Kubernetes, Jenkins, Azure, AKS, R / Python automation scripts to unload terraform or Json templates to desired destinations
+- **Web Tech Frameworks:** 
+    - ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+    - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+    - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+    - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+    - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+    - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+    - ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
+    - ![ASP.NET CORE](https://img.shields.io/badge/-ASP.NET%20CORE-512BD4?logo=.net&logoColor=white)
+- **Testing:** MOQ, Mocha, Unit/Automated, Cypress – E2E, Karma, Jasmine-suite, SPING
+- **Databases:** MySQL, SQL, NoSQL/Mongo, PostgreSQL
+- **Project Management:** Agile, Teams, Scrum, CI/CD
+- **Operating Systems:** Windows, Linux, Ubuntu, MacOS, Android, Windows phone
+- **Languages:** 
+    - ![Assembly](https://img.shields.io/badge/-Assembly-000000?logo=assembly&logoColor=white)
+    - ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+    - ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+    - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+    - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+    - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+    - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+    - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+    - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+    - ![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&logoColor=white)
+    - ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
+- **Cybersecurity:** CIS, CCM, CSP, Working towards CISSP
+- **CI/CD and Automated Testing:** GIT, GITLAB, JIRA, SonarQube, Docker, Kubernetes, Jenkins, Azure, AKS, R / Python automation scripts
 - **Networking:** fibre engineer/architect, patch panels, Cisco cloud administration, PRTG, NetCat, Reverse Shell, Spoof/hijack prevention, Infrastructure, DNS configurations, Switches, VLAN SIP SSIDS Groupings etc
 - **Hardware:** Chipset collections, Motherboards, Cisco servers, Switches, DNS, Firewall, VPN devices, Power supply units, Cisco phones, Fibre patch panels
 
 ## Certificates & Licenses
 
-### - Azure Fundamentals
-### - Azure Developing Solutions
-### - Introduction to Cybersecurity
-### - Cisco Intro 
-### - CompTIA A+ (2)
-### - CompTIA Security+
-### - JavaScript Advanced Algorithms and Data Structures
-### - Responsive Web Design (Freecodecamp certification)
-### - Information Security (Freecodecamp certification) 
+- Azure Fundamentals
+- Azure Developing Solutions
+- Introduction to Cybersecurity
+- Cisco Intro 
+- CompTIA A+ (2)
+- CompTIA Security+
+- JavaScript Advanced Algorithms and Data Structures
+- Responsive Web Design (Freecodecamp certification)
+- Information Security (Freecodecamp certification) 
 
 ## Projects
 
-### Due to data protection and to avoid misuse of the softwares / tools most repositories are kept private 
-Feel free to explore my repositories to see some of my practice work, it includes Hybrid apps built using Angular 16+ with capacitor to build IOS and Android, you will be able to see in Vole app the integration of Google api's for mapping.
+Due to data protection and to avoid misuse of the software/tools, most repositories are kept private. Feel free to explore my repositories to see some of my practice work. It includes Hybrid apps built using Angular 16+ with capacitor to build IOS and Android. You'll be able to see in Vole app the integration of Google APIs for mapping.
 
 ## Get in Touch 📫 
 
@@ -44,18 +61,3 @@ I'm always open to collaboration and new opportunities. Reach out to me on [Link
 ## Let's Collaborate!
 
 If you're interested in collaborating on a project or have any questions, don't hesitate to open an issue or reach out to me. Let's build something awesome together!
-
-<!--
-**Ahmed0789/Ahmed0789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
