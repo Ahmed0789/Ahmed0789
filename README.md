@@ -9,6 +9,7 @@ I'm a passionate engineer with expertise in a wide range of fields, from hardwar
 - **Web Tech Frameworks:** 
     - ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
     - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+    - ![Hapi](https://img.shields.io/badge/-Hapi-092E20?logo=hapi&logoColor=white)
     - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
     - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
     - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
