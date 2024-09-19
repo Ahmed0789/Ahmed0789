@@ -22,7 +22,7 @@ I'm a passionate engineer with expertise in a wide range of fields, from hardwar
 - **Operating Systems:** Windows, Linux, Ubuntu, MacOS, IOS, Android
 - **Languages:** 
     - ![Assembly](https://img.shields.io/badge/-Assembly-000000?logo=assembly&logoColor=white) x86
-    - ![C](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+    - ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
     - ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
     - ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
     - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
