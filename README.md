@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a passionate engineer with expertise in a wide range of fields, from hardware to software/systems development. I specialise in frontend/backend web technologies, microservices (FAAS), cybersecurity/CSP (CIS, knowledge of CCM), cloud computing, solution architecture, and DevOps practices. With extensive experience in building hybrid solutions on private cloud & Azure, solution design, and CI/CD setup, I thrive on solving complex problems and building robust, scalable applications.
+I'm a passionate engineer with expertise in a wide range of fields, from hardware to software. I specialise in web technologies as fullstack, Azure / OnPrem DevOps, microservices, cybersecurity (CSP, CIS, knowledge of CCM), networking and platform architecture. With extensive experience in building hybrid solutions on private cloud & Azure, solution design, and CI/CD setup, I thrive on solving complex problems and building robust, scalable applications along with solutions that help architect network infrastracture.
 
 ## Technologies I Love 🌱🔭
 
@@ -16,8 +16,9 @@ I'm a passionate engineer with expertise in a wide range of fields, from hardwar
     - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
     - ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
     - ![ASP.NET CORE](https://img.shields.io/badge/-ASP.NET%20CORE-512BD4?logo=.net&logoColor=white)
-- **Testing:** MOQ, Mocha, Unit/Automated, Cypress – E2E, Karma, Jasmine-suite, SPING
-- **Databases:** MySQL, SQL, NoSQL/Mongo, PostgreSQL
+    - ![ArcGIS](https://img.shields.io/badge/-ArcGIS%20CORE-512BD4?logo=ArcGIS&logoColor=white)
+- **Testing:** MOQ, Mocha, Unit/Automated, Cypress – E2E, Karma, Jasmine-suites, Postman (Automated tests with js/postmanCli in Gitlab-ci pipelines)
+- **Databases:** MySQL, SQL, NoSQL/Mongo, PostgreSQL, Gdb
 - **Project Management:** Agile, Teams, Scrum, CI/CD
 - **Operating Systems:** Windows, Linux, Ubuntu, MacOS, IOS, Android
 - **Languages:** 
@@ -36,9 +37,9 @@ I'm a passionate engineer with expertise in a wide range of fields, from hardwar
     - ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
 - **Cloud:** Azure (Hybrid Solutions), Administration, Azure DevOps, Azure Developing Solutions, Google Cloud, Private clouds
 - **Cybersecurity:** CIS, CCM, CSP, Working towards CISSP
-- **DevOps CI/CD and Automated Testing:** GIT, GITLAB, JIRA, SonarQube, Docker, Kubernetes, Jenkins, Azure, AKS, R / Python automation scripts
+- **DevOps CI/CD and Automated Testing:** GIT, GITLAB, JIRA, SonarQube, Docker, Kubernetes, Jenkins, Azure, AKS, R / Python automation scripts, ArcGis along with gDb.
 - **Networking:** Fibre engineer/architect, Fibre patch panels, Cisco / Unifi cloud administration, PRTG, NetCat, Reverse Shell, Spoof/hijack prevention, Infrastructure, DNS configurations, Switches, VLAN SIP SSIDS Groupings etc ...
-- **Hardware:** Processors & compatible Motherboards collections, Peripherals, Cisco servers, Switches, DNS, Firewall, VPN devices, Power supply units, Cisco phones, Fibre patch panels ...
+- **Hardware:** Processors & compatible Motherboards collections, Peripherals, Cisco servers, Switches, DNS Firewall VPN devices, Power supply units, Cisco phones, Fibre patch panels ...
 
 ## Certificates & Licenses
 
