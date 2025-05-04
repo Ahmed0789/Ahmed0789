@@ -60,7 +60,7 @@ Due to data protection and to avoid misuse of the software/tools, most repositor
 
 ## Get in Touch 📫 
 
-I'm always open to collaboration and new opportunities. Reach out to me on [LinkedIn](https://linkedin.com/in/ahmed-arian-79a5b9141) to connect.
+I'm always open to collaboration and new opportunities. Reach out to me on [LinkedIn](https://www.linkedin.com/in/ahmed-a-79a5b9141/) to connect.
 
 ## Let's Collaborate!
 
