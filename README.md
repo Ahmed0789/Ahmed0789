@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a passionate engineer with expertise in a wide range of fields, from hardware to software. I specialise in web technologies as fullstack, Azure / OnPrem DevOps, microservices, cybersecurity (CSP, CIS, knowledge of CCM), networking and platform architecture. With extensive experience in building hybrid solutions on private cloud & Azure, solution design, and CI/CD setup, I thrive on solving complex problems and building robust, scalable applications along with solutions that help architect network infrastracture.
+I'm a passionate engineer with expertise in a wide range of fields, from hardware to software. I specialise in web technologies as fullstack developer, Azure / OnPrem DevOps, building microservices, cybersecurity practices (CSP, CIS, knowledge of CCM), networking and platform architecture. With extensive experience in building hybrid solutions on private cloud & Azure, solution design, and CI/CD devOps components, I thrive on solving complex problems, building robust, scalable applications and providing grea solutions that help architect network infrastracture for large community event.
 
 ## Technologies I Love 🌱🔭
 
@@ -20,7 +20,8 @@ I'm a passionate engineer with expertise in a wide range of fields, from hardwar
 - **Testing:** MOQ, Mocha, Unit/Automated, Cypress – E2E, Karma, Jasmine-suites, Postman (Automated tests with js/postmanCli in Gitlab-ci pipelines)
 - **Databases:** MySQL, SQL, NoSQL/Mongo, PostgreSQL, Gdb
 - **Project Management:** Agile, Teams, Scrum, CI/CD
-- **Operating Systems:** Windows, Linux, Ubuntu, MacOS, IOS, Android
+- **Operating Systems:** Windows, Linux CentOS | Debian, MacOS, IOS, Android,
+- **Automation Tools:** Ansible, Python, Paramiko | Netmiko, GitLab CI/CD, Azure KS / IAAS | PAAS, Docker Swarm, Jenkin
 - **Languages:** 
     - ![Assembly](https://img.shields.io/badge/-Assembly-000000?logo=assembly&logoColor=white) x86
     - ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
